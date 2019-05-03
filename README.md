@@ -1,0 +1,1 @@
+16 patterns examples by Java
